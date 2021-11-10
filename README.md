@@ -19,8 +19,6 @@
   - [Storing, Analyzing, and Visualizing](#sav)
   - [Report](#report)
 - [Project Motivation](#motivation)
-- [Results](#results)
-- [Licensing, Authors, and Acknowledgements](#licensing)
 
 ### Project Overview <a name="project_overview"></a>
 
@@ -118,19 +116,3 @@ This is an Udacity Nanodegree project.I was interested in using Tweet Data to be
 - what is the retweet counts, and favorite counts comparison over time.
 - What is the most popular dog breed.
 - What is the most popular dog names.
-
-## Results <a name="results"></a>
-- Over time tweets decreased sharply, with spikes in activity during the early of 2016(Jan), 2016(Mar), and generally decreasing from there.
-- Favorite counts are correlated with retweet counts - this is a positive correlation.
-- The most popular dog breed is a golden retriever, with a labrador retriever coming in as the second most popular breed.
-- The three most popular dog names are:
-  - Lucy - 11
-  - Charlie - 11
-  - Oliver - 10 and so on
-- **Visualizations**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Abhishek20182/Wrangle-and-Analyze-Data/master/Result-1.png" width=500px>
-  <img src="https://raw.githubusercontent.com/Abhishek20182/Wrangle-and-Analyze-Data/master/Result-2.png">
-  <img src="https://raw.githubusercontent.com/Abhishek20182/Wrangle-and-Analyze-Data/master/Result-3.png">
-  <img src="https://raw.githubusercontent.com/Abhishek20182/Wrangle-and-Analyze-Data/master/Result-4.png">
-</p>
